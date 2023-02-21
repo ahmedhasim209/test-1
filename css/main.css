@@ -34,4 +34,15 @@
 }
 .part-two h2 {
     text-align: center;
+    padding-bottom: 40px;
+}
+.part-two .date-part {
+    max-width: 500px;
+    margin: 0 auto;
+}
+.part-two .date-part li {
+    line-height: 1.7;
+}
+.part-two .date-part li p span {
+    font-weight: bold;
 }
